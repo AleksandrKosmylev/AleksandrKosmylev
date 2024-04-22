@@ -1,16 +1,20 @@
-### Hi there 👋
+I'm Alex, a civil engineer who has become a python-developer. From 🏗 to 👨🏻‍💻.
 
-<!--
-**AleksandrKosmylev/AleksandrKosmylev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The man who turned his hobby into carrier.
 
-Here are some ideas to get you started:
+## Contacts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Email: alex.kosmylev@gmail.com
+* Telegram: [@lucky_chuck](https://t.me/lucky_chuck)
+* LinkedIn: [aleksandr-kosmylev](linkedin.com/in/aleksandr-kosmylev-856651ba)
+
+### Resume
+* LinkedIn: [Resume (EN)](linkedin.com/in/aleksandr-kosmylev-856651ba)
+* HabrCareer: [Resume (RU)](https://career.habr.com/lucky_chuck)
+
+## Badges
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<br />
+![CodeWars](https://www.codewars.com/users/AleksandrKosmylev/badges/small)
