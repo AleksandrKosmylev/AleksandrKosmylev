@@ -6,7 +6,6 @@ The man who turned his hobby into carrier.
 
 * Email: alex.kosmylev@gmail.com
 * Telegram: [@lucky_chuck](https://t.me/lucky_chuck)
-* LinkedIn: [aleksandr-kosmylev](linkedin.com/in/aleksandr-kosmylev-856651ba)
 
 ### Resume
 * LinkedIn: [Resume (EN)](https://www.linkedin.com/in/aleksandr-kosmylev-856651ba/)
