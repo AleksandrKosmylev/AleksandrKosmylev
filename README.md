@@ -9,7 +9,7 @@ The man who turned his hobby into carrier.
 * LinkedIn: [aleksandr-kosmylev](linkedin.com/in/aleksandr-kosmylev-856651ba)
 
 ### Resume
-* LinkedIn: [Resume (EN)](linkedin.com/in/aleksandr-kosmylev-856651ba)
+* LinkedIn: [Resume (EN)](https://www.linkedin.com/in/aleksandr-kosmylev-856651ba/)
 * HabrCareer: [Resume (RU)](https://career.habr.com/lucky_chuck)
 
 ## Badges
